@@ -2,7 +2,7 @@
 #include<math.h>
 #include<windows.h>
                                           int main(){int A=0x28;int B=0xC8;float
-                                        Cx=0;float Cz=0;printf("\033[1;1H\033[2J")
+                                    Cx=0; float Cy=0;float Cz=0;printf("\033[1;1H\033[2J")
                                   ;int D=B*A+A;char E[D];float F=(B/0x2)/tan(0x2D);float 
                                  Gx=0x1;float Gz=0;float Hx=0;float Hz=0x1;float I=cos(0.02
                               );float J=sin(0.02);int K=0;while(0x1){if(GetAsyncKeyState(0x52
